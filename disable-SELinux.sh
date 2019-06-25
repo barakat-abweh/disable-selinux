@@ -1,4 +1,4 @@
-#!/bin/bash
+# !/bin/bash
 
 setenforce 0
 cp /etc/selinux/config /etc/selinux/config.bckup
